@@ -10,9 +10,9 @@ The application provides CRUD (Create, Read, Update and Delete) operations for m
 
 | Description | Link |
 |---|---|
-| Live Application | https://lab-03-rest-api-wdz7.onrender.com/ |
-| Get All Books | https://lab-03-rest-api-wdz7.onrender.com/books/ |
-| GitHub Repository | https://github.com/navaneshreddy/Lab-03-REST-API |
+| Live Application | https://lab-3-rest-api.onrender.com/ |
+| Get All Books | https://lab-3-rest-api.onrender.com/books/ |
+| GitHub Repository | https://github.com/bijivemulasatheesh-gif/Lab-3-Rest-api.git|
 
 **Deployment Platform:** Render  
 **Deployment Status:** Live
