@@ -21,8 +21,8 @@ The application provides CRUD (Create, Read, Update and Delete) operations for m
 
 ## Student Details
 
-- **Name:** [K Navaneswar Reddy]
-- **Registration Number:** [252U1R8041]
+- **Name:** [B SATHEESH KUMAR REDDY]
+- **Registration Number:** [252U1R8007]
 - **Section:** [CSE QE 2A]
 
 ---
